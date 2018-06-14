@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int matrix[10], n, max = -10000000;
-	bool a = false, b = false;;
+	bool a = false, b = false;
 	cin >> n;
 	for (int i = 0; i < n; i++)
 	{
@@ -43,4 +43,3 @@ int main()
 		cout << "NO";
 	}
 }
-.
