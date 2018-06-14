@@ -21,7 +21,10 @@ int main()
 				break;
 			}
 		}
-		if (novi) { break; }
+		if (novi)
+		{ 
+			break; 
+		}
 	}
 	if (novi == 1)
 	{
@@ -31,4 +34,4 @@ int main()
 	{
 		cout << "TAIP";
 	}
-}.
+}
