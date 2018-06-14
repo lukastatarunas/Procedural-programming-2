@@ -26,6 +26,8 @@ int main()
 	{
 		cout << "NELYGINIS";
 	}
-	else cout << "LYGINIS";
+	else
+	{
+		cout << "LYGINIS";
+	}
 }
-.
