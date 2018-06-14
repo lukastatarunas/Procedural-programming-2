@@ -12,4 +12,4 @@ int main()
 		suma = suma + matrix[i];
 	}
 	cout << suma;
-}
+}.
