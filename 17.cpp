@@ -28,3 +28,4 @@ int main()
 	}
 	else cout << "LYGINIS";
 }
+.
