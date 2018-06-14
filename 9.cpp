@@ -39,4 +39,3 @@ int main()
 	double a = (double)s / c;
 	cout << fixed << setprecision(2) << a;
 }
-.
