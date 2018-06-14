@@ -42,3 +42,4 @@ int main()
 		cout << "Ne";
 	}
 }
+.
