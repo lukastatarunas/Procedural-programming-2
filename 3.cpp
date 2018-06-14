@@ -36,5 +36,5 @@ int main()
 	if (a == false)
 	{
 		cout << "No";
-	}.
+	}
 }
